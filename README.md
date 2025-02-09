@@ -1,11 +1,11 @@
 ![Banner](https://github.com/user-attachments/assets/eb3bdbac-56db-4325-830c-9f1d3d651169)
 
-<img alt="Saludo Animado" src="https://ejemplo.com/tu-gif.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Genaro Arias</h2>
+<img alt="Saludo Animado" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Genaro Arias</h2>
 
 ### 👨💻 &nbsp;Sobre Mí
 
-🎓 &nbsp; Actualmente Estudiando Sistema de Informacion en Universidad Estal de Milagro UNEMI.\
-🌱 &nbsp;Actualmente estoy aprendiendo Microservicios con Eureka Server / Spring .\
+🎓 &nbsp; Actualmente Estudiando Sistema de Informacion en la Universidad Estatal de Milagro (UNEMI).\
+🌱 &nbsp;Actualmente estoy aprendiendo Microservicios con Eureka Server / Spring.\
 🚀 &nbsp;Apasionado por el desarrollo de app y paginas web.\
 ✍️ &nbsp;En mi tiempo libre me gusta aprender nuevas tecnologias y nuevos lenguajes de programacion.\
 📫 &nbsp;Contáctame en: gariase2@unemi.edu.ec
