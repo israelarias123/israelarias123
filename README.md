@@ -1,16 +1,43 @@
-## Hi there 👋
+![Banner](https://github.com/user-attachments/assets/eb3bdbac-56db-4325-830c-9f1d3d651169)
 
-<!--
-**israelarias123/israelarias123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Saludo Animado" src="https://ejemplo.com/tu-gif.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Genaro Arias</h2>
 
-Here are some ideas to get you started:
+### 👨💻 &nbsp;Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 &nbsp; Actualmente Estudiando Sistema de Informacion en Universidad Estal de Milagro UNEMI.\
+🌱 &nbsp;Actualmente estoy aprendiendo Microservicios con Eureka Server / Spring .\
+🚀 &nbsp;Apasionado por el desarrollo de app y paginas web.\
+✍️ &nbsp;En mi tiempo libre me gusta aprender nuevas tecnologias y nuevos lenguajes de programacion.\
+📫 &nbsp;Contáctame en: gariase2@unemi.edu.ec
+
+---
+
+<h1 align="center">TECHNOLOGY</h1>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,express,figma,github,html,java,js,linux,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+---
+
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+
+
+  ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/israelarias123">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelarias123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelarias123&layout=compact&theme=algolia"/>
+  </a>
+</p>
+
+
